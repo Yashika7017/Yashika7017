@@ -1,3 +1,4 @@
+![logo](https://github.com/Yashika7017/Yashika7017/blob/main/github%20Banner%202.png)
 <h1 align="center">Hi 👋, I'm Yashika Varshney</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
