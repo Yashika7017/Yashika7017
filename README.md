@@ -20,8 +20,8 @@
 <img align="right"alt="coding"width="400"src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left">
-<a href="https://linkedin.com/in/yashika-varhney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashika-varhney" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashika_varshney1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashika_varshney1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yashika-varshney-8aa154227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashika-varhney" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Yashika_varshney4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashika_varshney1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
